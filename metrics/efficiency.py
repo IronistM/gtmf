@@ -11,7 +11,7 @@ import pandas as pd
 
 
 # --- Helper Functions --- #
-def merge_label_commercial_datsets(
+def merge_label_commercial_datasets(
     label_data: pd.DataFrame,
     commercial_report: pd.DataFrame,
     common_cols: List[str],
